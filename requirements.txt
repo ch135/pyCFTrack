@@ -16,7 +16,7 @@ matplotlib==3.0.3
 mxnet-cu80==1.4.1
 networkx==2.3
 numba==0.44.1
-numpy==1.14.6
+numpy==1.22.0
 opencv-python==4.1.0.25
 Pillow==6.1.0
 pyparsing==2.4.0
